@@ -10,12 +10,6 @@
 -----------------------------------------------------------------
 ### **Project Description:**  
 **Carzo - A Car Sale App**  
-Carzo is a user-friendly application designed to manage car sales efficiently.  
-Built using **React.js**, **JavaScript**, and **Firebase**.And we have used technology:Visual studio.
-
------------------------------------------------------------------
-### **Project Description:**  
-**Carzo - A Car Sale App**  
 Carzo is a modern, user-friendly application designed to simplify car rental and sale management processes.  
 Built using **React Native**, **Firebase**, and **Axios**.
 
