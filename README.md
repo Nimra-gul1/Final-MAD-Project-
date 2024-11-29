@@ -11,7 +11,9 @@
 ### **Project Description:**  
 **Carzo - A Car Sale App**  
 Carzo is a modern, user-friendly application designed to simplify car rental and sale management processes.  
-Built using **React Native**, **Firebase**, and **Axios**.
+Built using **React Native**, **Firebase**, and **Axios**. 
+### **Error Handling:**
+Alerts and error messages are implemented to inform users about missing fields or issues (e.g., sign-up errors or login failures).
 
 ### **Modules & Features:**  
 #### **Book cars:**  
