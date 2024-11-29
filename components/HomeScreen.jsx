@@ -171,7 +171,7 @@ const styles = StyleSheet.create({
   menuIcon: {
     padding: 10, 
     borderRadius: 20,
-    backgroundColor: "rgba(0, 0, 0, 0.3)", 
+    backgroundColor: "rgba(0, 0, 0, 0.3)", },
   logoContainer: {
     marginTop: 40,
     flexDirection: "row",
